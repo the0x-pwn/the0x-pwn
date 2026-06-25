@@ -206,19 +206,3 @@ the0x@arch ~ % whoami --verbose
 ```
 
 ---
-
-<div align="center">
-
-### 📫 Reach Me
-
-<a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=the0x-pwn&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
-
-</div>
