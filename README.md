@@ -7,8 +7,7 @@
 
 <br>
 
-<img src="https://flagcdn.com/w80/iq.png" width="35" style="vertical-align:middle; border-radius:4px;"/>
-&nbsp;<strong> العراق - Iraq</strong>
+&nbsp;<strong>🇮🇶 العراق - Iraq</strong>
 
 <br><br>
 
