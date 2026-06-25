@@ -7,7 +7,8 @@
 
 <br>
 
-&nbsp;<strong>🇮🇶 العراق - Iraq</strong>
+<img src="https://flagcdn.com/w80/iq.png" width="35" style="vertical-align:middle; border-radius:4px;"/>
+&nbsp;<strong>🇮🇶 Iraq</strong>
 
 <br><br>
 
@@ -31,25 +32,25 @@ the0x@arch ~ % whoami --verbose
 [+] OS Religion : Arch Linux (btw)
 [+] Status      : Breaking apps responsibly, one request at a time
 [+] Addiction   : CTF challenges & bug bounty hunting
-[+] Mindset      : "If it's not tested, it's not secure"
+[+] Mindset     : "If it's not tested, it's not secure"
 ```
 
 ---
 
-### 🎯 التخصص | Specialization
+### 🎯 Specialization
 
 ```
-🔭 أعمل حالياً على   : اختبار اختراق تطبيقات الويب (Web Application Pentesting)
-🌱 أتعلم حالياً      : تقنيات استغلال متقدمة في Privilege Escalation & Access Control
-👯 أبحث عن تعاون     : فرق CTF و مشاريع Bug Bounty
-🤔 أحتاج مساعدة في   : أبحاث متقدمة في Vertical/Horizontal BAC
-💬 اسألني عن         : SQLi, XSS, IDOR, BAC, CTF Writeups
-⚡ معلومة طريفة      : لا أثق بأي input من المستخدم - ولا بنفسي 😄
+🔭 Currently working on    : Web Application Penetration Testing
+🌱 Currently learning      : Advanced Privilege Escalation & Access Control techniques
+👯 Looking to collaborate  : CTF teams & Bug Bounty projects
+🤔 Looking for help with   : Advanced research in Vertical/Horizontal BAC
+💬 Ask me about            : SQLi, XSS, IDOR, BAC, CTF Writeups
+⚡ Fun fact                : I don't trust any user input — not even my own 😄
 ```
 
 ---
 
-### 🧨 الثغرات والهجمات | Exploitation Expertise
+### 🧨 Exploitation Expertise
 
 <table align="center">
 <tr>
@@ -97,9 +98,9 @@ the0x@arch ~ % whoami --verbose
 
 ---
 
-### ⚙️ Tech Arsenal — اللغات والتقنيات
+### ⚙️ Tech Arsenal — Languages & Technologies
 
-> مستوى الإتقان مبني على تقييمي الشخصي لمدى احترافي بكل لغة 🎯
+> Proficiency levels are based on my own self-assessment 🎯
 
 <table align="center" width="100%">
 <tr><td width="120"><b>PHP</b></td><td width="55%">
@@ -161,7 +162,7 @@ the0x@arch ~ % whoami --verbose
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
-**أحب Arch Linux أكثر من أي نظام آخر — التحكم الكامل أو لا شيء 🖤**
+**Arch Linux is my one true love — full control or nothing 🖤**
 
 </div>
 
@@ -200,16 +201,16 @@ the0x@arch ~ % whoami --verbose
 ### 🚩 CTF & Bug Bounty
 
 ```
-[*] Categories      : Web Exploitation | Network Pentest | Misc
-[*] Mentality       : "كل تطبيق له ثغرة، السؤال فقط متى تجدها"
-[*] Currently       : Hunting bugs & solving boxes
+[*] Categories  : Web Exploitation | Network Pentest | Misc
+[*] Mentality   : "Every app has a flaw, the only question is when you'll find it"
+[*] Currently   : Hunting bugs & solving boxes
 ```
 
 ---
 
 <div align="center">
 
-### 📫 تواصل معي | Reach Me
+### 📫 Reach Me
 
 <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
