@@ -191,32 +191,38 @@ the0x@arch ~ % whoami --verbose
 ```
 ### 🛠️ Featured Project — GhostDir
 
+---
+<br>
+
 <div align="center">
 
-**👻 GhostDir** — Fast & Lightweight Directory/File Discovery Tool
+## 🛠️ Featured Project
 
-[![Repo](https://img.shields.io/badge/Repo-ghostdir-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/the0x-pwn/ghostdir)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=3&width=400" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=%F0%9F%91%BB+GhostDir" />
+
+**Directory & File Discovery Tool — Developed by me**
+
+<br>
+
+[![Repo](https://img.shields.io/badge/Repository-ghostdir-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=000000)](https://github.com/the0x-pwn/ghostdir)
+[![Python](https://img.shields.io/badge/Python-3.x-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)](#)
+[![Stars](https://img.shields.io/github/stars/the0x-pwn/ghostdir?style=for-the-badge&color=0d1117&labelColor=000000&logo=github&logoColor=FFD700)](https://github.com/the0x-pwn/ghostdir/stargazers)
+
+<br>
+
+> 👻 A ghost that walks through web servers, slipping past every hidden path until nothing stays buried.
+
+<br>
+
+**🔗 [github.com/the0x-pwn/ghostdir](https://github.com/the0x-pwn/ghostdir)**
 
 </div>
 
-A multi-threaded brute-force tool I built in Python to discover hidden directories and files on web servers using a wordlist — designed for speed, flexibility, and real pentest workflows.
-
-```
-[+] Multi-threaded scanning for high speed
-[+] Custom HTTP methods (GET, POST, HEAD, etc.)
-[+] Filter by status code, response size, or match string
-[+] Custom headers, cookies & User-Agent (with random rotation)
-[+] Proxy support (Burp Suite / MITM) + dedicated Burp mode
-[+] Extension-based filtering & save results to file
-```
-
-```bash
-python gdir.py -u https://target.com -w wordlist.txt -t 50 -fc 404
-```
-
-> 🔗 Check it out: **[github.com/the0x-pwn/ghostdir](https://github.com/the0x-pwn/ghostdir)**
+<br>
 
 ---
 ---
