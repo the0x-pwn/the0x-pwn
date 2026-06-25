@@ -1,95 +1,96 @@
-<!--
-Ali Waleed | Web Security Researcher | Penetration Tester | CTF Player
-Keywords: Web Security, Pentesting, CSRF, XSS, SQLi, IDOR, BAC, PHP, Python, Go, Laravel, Arch Linux, CTF, Bug Bounty, Ethical Hacking
--->
-
 <div align="center">
 
-```
- ██████╗ ████████╗██╗  ██╗███████╗    ██████╗ ██╗    ██╗███╗   ██╗
- ╚══██╔╝ ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██║    ██║████╗  ██║
-    ██║     ██║   ███████║█████╗█████╗██████╔╝██║ █╗ ██║██╔██╗ ██║
-    ██║     ██║   ██╔══██║██╔══╝╚════╝██╔═══╝ ██║███╗██║██║╚██╗██║
-    ██║     ██║   ██║  ██║███████╗    ██║     ╚███╔███╔╝██║ ╚████║
-    ╚═╝     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═══╝
-```
+<!-- Animated typing banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=the0x&fontSize=90&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Researcher%20%7C%20Web%20Pentester&descAlignY=58&descSize=20&descColor=00D4FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami;Ali+Waleed+%7C+Web+Pentester;%24+cat+passion.txt;Breaking+things+to+understand+them...;%24+uname+-a;Arch+Linux+%E2%9D%A4%EF%B8%8F+%7C+CTF+Addict;%24+./exploit.sh+--target+web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Whoami+%3D+the0x;Penetration+Tester;Bug+Hunter+%26+CTF+Player;Breaking+things+to+build+them+safer." alt="Typing SVG" />
 
-<br/>
+<br>
 
-[![](https://img.shields.io/badge/Focus-Web_Pentesting-ff3366?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/the0x-pwn)
-[![](https://img.shields.io/badge/OS-Arch_Linux_%F0%9F%92%99-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://github.com/the0x-pwn)
-[![](https://img.shields.io/badge/CTF-Addict-7c3aed?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/the0x-pwn)
-[![](https://img.shields.io/badge/Labs-Builder-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/the0x-pwn)
+<img src="https://flagcdn.com/w80/iq.png" width="35" style="vertical-align:middle; border-radius:4px;"/>
+&nbsp;<strong>🇮🇶 العراق - Iraq</strong>
+
+<br><br>
+
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF9C)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](#)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF4500)](#)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=the0x-pwn&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00ff88&icon_color=ff3366&text_color=ffffff" />
+### 🛡️ `whoami`
 
 ```bash
-┌──(the0x㉿arch)-[~]
-└─$ cat about.txt
-
-  Name    : Ali Waleed
-  Role    : Web Security Researcher
-            & Penetration Tester
-  Passion : Breaking things to learn,
-            Building labs to teach
-  OS      : Arch Linux ❤️ (btw)
-  Hobbies : CTF | Code | Hack | Repeat
-  Status  : Always learning...
+the0x@arch ~ % whoami --verbose
 ```
-
-<br clear="right"/>
+```
+[+] Role        : Cyber Security Researcher / Web Penetration Tester
+[+] Based in    : 🇮🇶 Iraq
+[+] OS Religion : Arch Linux (btw)
+[+] Status      : Breaking apps responsibly, one request at a time
+[+] Addiction   : CTF challenges & bug bounty hunting
+[+] Mindset      : "If it's not tested, it's not secure"
+```
 
 ---
 
-## ⚔️ Vulnerability Arsenal
+### 🎯 التخصص | Specialization
 
-<table>
+```
+🔭 أعمل حالياً على   : اختبار اختراق تطبيقات الويب (Web Application Pentesting)
+🌱 أتعلم حالياً      : تقنيات استغلال متقدمة في Privilege Escalation & Access Control
+👯 أبحث عن تعاون     : فرق CTF و مشاريع Bug Bounty
+🤔 أحتاج مساعدة في   : أبحاث متقدمة في Vertical/Horizontal BAC
+💬 اسألني عن         : SQLi, XSS, IDOR, BAC, CTF Writeups
+⚡ معلومة طريفة      : لا أثق بأي input من المستخدم - ولا بنفسي 😄
+```
+
+---
+
+### 🧨 الثغرات والهجمات | Exploitation Expertise
+
+<table align="center">
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🔓 Access Control**
-```
-✦ Broken Access Control (BAC)
-✦ BAC Context Abuse
-✦ IDOR — Insecure Direct Object Ref
-✦ Privilege Escalation — Vertical
-✦ Privilege Escalation — Horizontal
-✦ Authentication Bypass
-```
-
-**💉 Injection Attacks**
-```
-✦ SQLi — Union Based
-✦ SQLi — Error Based
-✦ SQLi — Boolean Blind
-✦ SQLi — Time-Based Blind
-✦ SQLi — Second Order
-```
+**🔐 Access Control & Auth**
+- Broken Access Control (BAC)
+- Vertical / Horizontal BAC
+- Context-Based BAC
+- Authentication Bypass (AUTH BYPASS)
+- Insecure Direct Object Reference (IDOR)
+- Privilege Escalation
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🎭 Client-Side Attacks**
-```
-✦ XSS — Reflected
-✦ XSS — Stored
-✦ XSS — DOM Based
-✦ CSRF — Token Bypass
-✦ CSRF — SameSite Abuse
-```
+**💉 Injection Attacks**
+- SQL Injection — Union-Based
+- SQL Injection — Error-Based
+- Blind SQLi — Boolean-Based
+- Blind SQLi — Time-Based
+- Second-Order SQL Injection
 
-**📁 Other Techniques**
-```
-✦ File Upload Vulnerabilities
-✦ Path Traversal
-✦ Session Attacks
-```
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**🧬 Client-Side Attacks**
+- Cross-Site Scripting (Reflected)
+- Cross-Site Scripting (Stored)
+- DOM-Based XSS
+- Cross-Site Request Forgery (CSRF)
+
+</td>
+<td valign="top" width="50%">
+
+**📁 File-Based Attacks**
+- Unrestricted File Upload
+- File Upload RCE Chains
 
 </td>
 </tr>
@@ -97,83 +98,128 @@ Keywords: Web Security, Pentesting, CSRF, XSS, SQLi, IDOR, BAC, PHP, Python, Go,
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ Tech Arsenal — اللغات والتقنيات
 
-**Languages & Frameworks**
+> مستوى الإتقان مبني على تقييمي الشخصي لمدى احترافي بكل لغة 🎯
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<table align="center" width="100%">
+<tr><td width="120"><b>PHP</b></td><td width="55%">
+  <img src="https://progress-bar.xyz/85/?title=&width=350&color=00ff9c&suffix=%25"/>
+</td><td>85%</td></tr>
 
-**Systems & Environment**
+<tr><td><b>Laravel</b></td><td>
+  <img src="https://progress-bar.xyz/80/?title=&width=350&color=ff2d75&suffix=%25"/>
+</td><td>80%</td></tr>
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnometerminal&logoColor=white)
+<tr><td><b>Python</b></td><td>
+  <img src="https://progress-bar.xyz/90/?title=&width=350&color=3776ab&suffix=%25"/>
+</td><td>90%</td></tr>
+
+<tr><td><b>Go</b></td><td>
+  <img src="https://progress-bar.xyz/65/?title=&width=350&color=00add8&suffix=%25"/>
+</td><td>65%</td></tr>
+
+<tr><td><b>SQL</b></td><td>
+  <img src="https://progress-bar.xyz/88/?title=&width=350&color=f29111&suffix=%25"/>
+</td><td>88%</td></tr>
+
+<tr><td><b>MySQL</b></td><td>
+  <img src="https://progress-bar.xyz/85/?title=&width=350&color=4479a1&suffix=%25"/>
+</td><td>85%</td></tr>
+
+<tr><td><b>JavaScript</b></td><td>
+  <img src="https://progress-bar.xyz/78/?title=&width=350&color=f7df1e&suffix=%25"/>
+</td><td>78%</td></tr>
+
+<tr><td><b>HTML</b></td><td>
+  <img src="https://progress-bar.xyz/95/?title=&width=350&color=e34f26&suffix=%25"/>
+</td><td>95%</td></tr>
+
+<tr><td><b>CSS</b></td><td>
+  <img src="https://progress-bar.xyz/90/?title=&width=350&color=264de4&suffix=%25"/>
+</td><td>90%</td></tr>
+
+<tr><td><b>Bootstrap</b></td><td>
+  <img src="https://progress-bar.xyz/85/?title=&width=350&color=7952b3&suffix=%25"/>
+</td><td>85%</td></tr>
+
+<tr><td><b>Tailwind</b></td><td>
+  <img src="https://progress-bar.xyz/80/?title=&width=350&color=38bdf8&suffix=%25"/>
+</td><td>80%</td></tr>
+
+<tr><td><b>Bash Script</b></td><td>
+  <img src="https://progress-bar.xyz/60/?title=&width=350&color=4eaa25&suffix=%25"/>
+</td><td>60%</td></tr>
+</table>
 
 ---
 
-## 📊 Stats
+### 🖥️ Operating Systems
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0x-pwn&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00ff88&text_color=ffffff" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=the0x-pwn&theme=radical&hide_border=true&background=0a0e1a&ring=00ff88&fire=ff3366&currStreakLabel=00ff88" />
+[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+
+**أحب Arch Linux أكثر من أي نظام آخر — التحكم الكامل أو لا شيء 🖤**
 
 </div>
 
 ---
 
-## 🧪 Projects & Labs
+### 🧰 Tools & Frameworks
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🛡️ [CSRF Security Lab](https://github.com/the0x-pwn) | Hands-on CSRF exploitation sandbox — PHP MVC + Tailwind | ✅ Live |
-| 🔬 More Labs... | Various web vulnerability labs | 🔄 Building |
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-1a1a1a?style=flat-square)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 🎮 CTF & Activity
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=the0x-pwn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00D4FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=the0x-pwn&theme=radical&hide_border=true&background=0d1117&ring=00FF9C&fire=00D4FF&currStreakLabel=00FF9C"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the0x-pwn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+### 🚩 CTF & Bug Bounty
 
 ```
-┌──(the0x㉿arch)-[~]
-└─$ cat ctf_stats.txt
-
-  Platforms : HackTheBox · TryHackMe · CTFtime
-  Style     : Web challenges — my home ground
-  Motto     : "If it's on the web, it's mine to break"
-  
-  [██████████████████░░] always grinding...
+[*] Categories      : Web Exploitation | Network Pentest | Misc
+[*] Mentality       : "كل تطبيق له ثغرة، السؤال فقط متى تجدها"
+[*] Currently       : Hunting bugs & solving boxes
 ```
 
 ---
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════╗
-║   "The quieter you become,                 ║
-║    the more you are able to hear."         ║
-║                          — Kali Linux      ║
-╚════════════════════════════════════════════╝
-```
+### 📫 تواصل معي | Reach Me
 
-⭐ **Star my repos if they helped you**
+<a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=the0x-pwn.the0x-pwn&left_color=0a0e1a&right_color=00ff88)
+<br><br>
 
-*Made with ❤️ + ☕ on Arch Linux*
+![Profile Views](https://komarev.com/ghpvc/?username=the0x-pwn&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
 
-**`CSRF`** **`XSS`** **`SQLi`** **`IDOR`** **`BAC`** **`CTF`** **`PHP`** **`Go`** **`Python`** **`Laravel`** **`Arch Linux`** **`Web Security`** **`Pentesting`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
 
 </div>
