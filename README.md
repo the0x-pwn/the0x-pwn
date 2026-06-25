@@ -189,5 +189,34 @@ the0x@arch ~ % whoami --verbose
 [*] Mentality   : "Every app has a flaw, the only question is when you'll find it"
 [*] Currently   : Hunting bugs & solving boxes
 ```
+### 🛠️ Featured Project — GhostDir
 
+<div align="center">
+
+**👻 GhostDir** — Fast & Lightweight Directory/File Discovery Tool
+
+[![Repo](https://img.shields.io/badge/Repo-ghostdir-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/the0x-pwn/ghostdir)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
+
+</div>
+
+A multi-threaded brute-force tool I built in Python to discover hidden directories and files on web servers using a wordlist — designed for speed, flexibility, and real pentest workflows.
+
+```
+[+] Multi-threaded scanning for high speed
+[+] Custom HTTP methods (GET, POST, HEAD, etc.)
+[+] Filter by status code, response size, or match string
+[+] Custom headers, cookies & User-Agent (with random rotation)
+[+] Proxy support (Burp Suite / MITM) + dedicated Burp mode
+[+] Extension-based filtering & save results to file
+```
+
+```bash
+python gdir.py -u https://target.com -w wordlist.txt -t 50 -fc 404
+```
+
+> 🔗 Check it out: **[github.com/the0x-pwn/ghostdir](https://github.com/the0x-pwn/ghostdir)**
+
+---
 ---
